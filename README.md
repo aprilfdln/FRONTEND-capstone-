@@ -1,4 +1,5 @@
-FRONTEND (REACT)
+# FRONTEND (REACT)
 
-## PERS (kase dashboard pa lang ites)
-#### [ACTIVITY 1 - PALMERS PENGUIN](https://github.com/aprilfdln/Activity1-Penguins/blob/main/Activity1.ipynb)
+## [PERS / DASHBOARD](https://github.com/aprilfdln/FRONTEND-capstone-/tree/main/pers)
+### may sidebar, may icons /  logo na, responsive
+
